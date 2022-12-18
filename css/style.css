@@ -219,9 +219,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    /* background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url(images/fried-chicken-with-french-fries.webp); */
     background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url(../images/chicken-home.jpeg);
-    /* background:url(../images/home-img.jpeg) no-repeat; */
     background-size: cover;
     background-position: center;
 }
