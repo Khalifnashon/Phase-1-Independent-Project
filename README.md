@@ -27,7 +27,8 @@
 
 ## Live Link
 The application is deployed in Github Page
-Here is the link https://khalifnashon.github.io/Phase-1-Independent-Project/
+Here is the link 
+https://khalifnashon.github.io/Phase-1-Independent-Project/
 
 ## Screenshot
 
