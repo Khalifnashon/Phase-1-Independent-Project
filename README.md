@@ -29,6 +29,9 @@
 The application is deployed in Github Page
 Here is the link https://khalifnashon.github.io/Phase-1-Independent-Project/
 
+## Screenshot
+
+
 ## Bugs
     There is no bugs in the project.
 
@@ -42,4 +45,8 @@ Here is the link https://khalifnashon.github.io/Phase-1-Independent-Project/
     - +254743425004
 
 ## License
-Licenced under the [MT-licence](https://github.com/kips90/ReadmeIntro/blob/master/license) Copyright (c) 2022 **Khalif Nhashon
+Licenced under the [MT-licence]
+https://github.com/Khalifnashon/Phase-1-Independent-Project/blob/main/LICENSE
+
+MIT License
+Copyright (c) 2022 Khalif Nhashon
