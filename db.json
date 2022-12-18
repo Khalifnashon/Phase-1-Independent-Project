@@ -1,0 +1,53 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "image": "images/3-piecer-fries.jpg",
+      "description": "3 piece chicken and fries",
+      "price": 489.54,
+      "task": "add to cart",
+      "span": 500.99
+      
+    },
+    {
+      "id": "2",
+      "image": "images/5-piecer-large-fries.jpg",
+      "description": "5 piece chicken and large fries",
+      "price": 799.13,
+      "task": "add to cart",
+      "span": 900.99
+    },
+    {
+      "id": "3",
+      "image": "images/chicken-burger.jpg",
+      "description": "Large Chicken Burger",
+      "price": 699.12,
+      "task": "add to cart",
+      "span": 850.66
+    },
+    {
+      "id": "4",
+      "image": "images/crispy-chicken-burger.jpg",
+      "description": "Crispy chicken burger",
+      "price": 899.29,
+      "task": "add to cart",
+      "span": 1200.99
+    },  
+    {
+      "id": "5",
+      "image": "images/chips=masala.jpg",
+      "description": "Chips masala",
+      "price": 250.78,
+      "task": "add to cart",
+      "span": 300.99
+    },    
+    {
+      "id": "6",
+      "image": "images/large-fries.jpg",
+      "description": "Large Fries",
+      "price": 150.51,
+      "task": "add to cart",
+      "span": 200.99
+    }
+  ]
+} 
