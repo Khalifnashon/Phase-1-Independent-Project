@@ -260,7 +260,7 @@ function displayCart() {
                 
                 <div class="content">
                     <h3>${item.tag}</h3>
-                    <div class="price">$${item.price}</div>
+                    <div class="price">KES ${item.price}</div>
                 </div>
             </div>
             
