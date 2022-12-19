@@ -46,6 +46,9 @@ function initialize(){
 }
 initialize()
 
+// Navigating the navigation bar
+// The Search icon
+// And the cart container
 let navbar = document.querySelector('.navbar');
 
 document.querySelector('#menu-btn').onclick = () =>{
@@ -269,9 +272,6 @@ function displayCart() {
 
     
 }
-
-
-
 
 onLoadCartNumbers();
 displayCart();
