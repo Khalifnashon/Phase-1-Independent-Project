@@ -18,6 +18,7 @@
 
     #### Requirement
     Json Server -
+    Install VS Code
 
 ## How to run it
     Open your HTML file, and make sure you have live share extension installed.
