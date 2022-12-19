@@ -19,6 +19,10 @@
     #### Requirement
     Json Server -
 
+## How to run it
+    Open your HTML file, and make sure you have live share extension installed.
+    Click  on go live to veiw the page on the browser.
+
 ## BDD
     As a user :
     - I will able to like the products of the shop
@@ -35,7 +39,8 @@ https://khalifnashon.github.io/Phase-1-Independent-Project/
 
 
 ## Technologies Used
-    - HTML and CSS
+    - HTML (https://github.com Khalifnashon/Phase-1-Independent-Project/blob/main/index.html)
+    - CSS (https://github.com/Khalifnashon/Phase-1-Independent-Project/blob/main/css/style.css)
     - JS
     - JSON Server
 
