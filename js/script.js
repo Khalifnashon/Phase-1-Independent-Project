@@ -7,7 +7,7 @@ function renderOneFood(food){
             <img src="${food.image}">
             <h3>${food.description}</h3>
             <div class="price">${food.price}<span>${food.span}</span></div>
-            <a target = "_parent" rel = "noreferrer" class="btn">add to cart</a>
+            
             
             
         </div>
