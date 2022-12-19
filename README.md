@@ -31,10 +31,8 @@ Here is the link
 https://khalifnashon.github.io/Phase-1-Independent-Project/
 
 ## Screenshot
+![Screenshot (253)](https://user-images.githubusercontent.com/108731638/208355547-ae2a0524-0340-4317-bc67-de5a8ac76136.png)
 
-
-## Bugs
-    There is no bugs in the project.
 
 ## Technologies Used
     - HTML and CSS
@@ -46,7 +44,8 @@ https://khalifnashon.github.io/Phase-1-Independent-Project/
     - +254743425004
 
 ## License
-Licenced under the [MT-licence]
+
+
 https://github.com/Khalifnashon/Phase-1-Independent-Project/blob/main/LICENSE
 
 MIT License
