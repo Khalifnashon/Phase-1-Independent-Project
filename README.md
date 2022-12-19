@@ -39,8 +39,8 @@ https://khalifnashon.github.io/Phase-1-Independent-Project/
 
 
 ## Technologies Used
-    - HTML (https://github.com Khalifnashon/Phase-1-Independent-Project/blob/main/index.html)
-    - CSS (https://github.com/Khalifnashon/Phase-1-Independent-Project/blob/main/css/style.css)
+    - HTML https://github.com Khalifnashon/Phase-1-Independent-Project/blob/main/index.html
+    - CSS   https://github.com/Khalifnashon/Phase-1-Independent-Project/blob/main/css/style.css
     - JS
     - JSON Server
 
